@@ -1,0 +1,9 @@
+car-sales-web/node_modules
+car-sales-web/dist
+**/__pycache__
+*.pyc
+.git
+.idea
+*.log
+docs
+src

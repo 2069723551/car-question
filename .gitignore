@@ -1,0 +1,7 @@
+.idea
+**/node_modules
+**/__pycache__
+**/*.pyc
+*.log
+**/dist
+car-sales-backend/car_sales.db
